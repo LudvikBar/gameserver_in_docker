@@ -16,9 +16,11 @@ Clone the repo with
 
 ### 2. 
 
-**Download the latest version of TmodLoader, not pre-release: https://github.com/tModLoader/tModLoader/releases**
+**Download the latest version of tModLoader.zip, not pre-release: https://github.com/tModLoader/tModLoader/releases**
 
-**Either download manualy or use wget.**
+**Just "tModLoader.zip" no other folders or files. Either download manualy or use wget.**
+
+
 
 In tmodloaderServer make a folder named exactly "ServerFiles". 
 
