@@ -1,0 +1,43 @@
+# ===== tModLoader release files (download the zip yourself from GitHub) =====
+tModLoader.zip
+tModLoader.dll
+tModLoader.pdb
+tModLoader.deps.json
+tModLoader.runtimeconfig.json
+tModLoader.runtimeconfig.dev.json
+tModLoader.xml
+tMLMod.targets
+RecentGitHubCommits.txt
+
+# ===== Start scripts =====
+start-tModLoader.bat
+start-tModLoader.sh
+start-tModLoaderServer.bat
+start-tModLoaderServer.sh
+start-tModLoader-FamilyShare.bat
+start-tModLoader-FamilyShare.sh
+
+# ===== tModPorter =====
+tModPorter.dll.config
+
+# ===== Folders from the release =====
+Content/
+DedicatedServerUtils/
+LaunchUtils/
+Libraries/
+dotnet/
+tModPorter/
+
+# ===== Runtime generated =====
+tModLoader-Logs/
+
+# ===== Sensitive config =====
+serverconfig.txt
+*.env
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Node =====
+node_modules/
