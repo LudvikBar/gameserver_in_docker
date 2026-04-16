@@ -20,7 +20,7 @@ Clone the repo with
 
 **Either download manualy or use wget.**
 
-In tmodloaderServer make a folder named exactly "ServerFiles". 
+Inside the "tmodloaderServer" folder located in the base folder make a folder named exactly "ServerFiles". 
 
 Put tModLoader.zip inside ServerFiles and unzip
 
