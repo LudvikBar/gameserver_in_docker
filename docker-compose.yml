@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  tmodloader:
+    build:
+      context: ./tmodloaderServer
+    container_name: tmodloader-server
+    ports:
+      - "7777:7777"
+    restart: unless-stopped
